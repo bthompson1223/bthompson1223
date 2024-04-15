@@ -16,4 +16,4 @@ I have proven that I can not only learn quickly, but I can change tracks and lea
 - 📫 How to reach me: email me at bthompson1223@outlook.com
 - ⚡ Fun fact: Might be biased on this, but I've got the cutest dog.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bthompson1223)](https://github.com/ryo-ma/github-profile-trophy)
+
